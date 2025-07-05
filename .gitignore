@@ -236,3 +236,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+/.idea/
+/package.json
+/package-lock.json
