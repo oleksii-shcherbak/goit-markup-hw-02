@@ -79,7 +79,7 @@ a.address-li-items:focus {
   background-color: #404bbf;
 }
 
-.heading3 {
+.heading-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -98,7 +98,7 @@ a.address-li-items:focus {
   background-color: #f4f4fd;
 }
 
-.heading2 {
+.heading-two {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
