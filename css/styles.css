@@ -13,6 +13,7 @@ ul {
 }
 
 .logo {
+  font-family: Railway, sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -78,7 +79,7 @@ a.address-li-items:focus {
   background-color: #404bbf;
 }
 
-.h3 {
+.heading3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -86,7 +87,7 @@ a.address-li-items:focus {
   color: #2e2f42;
 }
 
-.p {
+.base-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -97,7 +98,7 @@ a.address-li-items:focus {
   background-color: #f4f4fd;
 }
 
-.h2 {
+.heading2 {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
